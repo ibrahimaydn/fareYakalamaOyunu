@@ -1,1 +1,2 @@
-java ile android uygulama 
+java ile android uygulaması
+
